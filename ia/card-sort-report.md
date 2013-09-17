@@ -17,12 +17,12 @@ The card sort was conducted by Grace Morton on Sept. 10th 2013 between the times
 4.	Psychological effects of coffee	5.	Coffee and your health	6.	These 10 Facts About Coffee Will Blow Your Mind7.	Green coffee bean	8.	Diff types of coffee	9.	Coffee addiction	10.	Breaking the habit for good	11.	Caffine: The Silent Killer of Emotional Intelligence12.	What do your Coffee Preferences Say About You? 13. Your Brain on Beer vs. Coffee	14.	7 Reasons Why Coffee is Good for You	15. Caffine FAQ	
 
 
-## Card sort results])
+## Card sort results
 
-![20130910_162949](/Users/gracemorton/Documents/GD Year 3 Sem 1/Usability/Week 2/ia/card-sort-1.jpg)
+![20130910_162949](card-sort-1.jpg)
 *Card sort 1 by Lisa Villeneuve*
 
-![Card sort 2 results](/Users/gracemorton/Documents/GD Year 3 Sem 1/Usability/Week 2/ia/card-sort-2.jpg)
+![Card sort 2 results](card-sort-2.jpg)
 *Card sort 2 by Kayla Tuor*
 
 ## Observations

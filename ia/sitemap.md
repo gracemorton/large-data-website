@@ -1,13 +1,5 @@
 # Sitemap: Coffee
 
-- Home
-- About	
-	- Grace Morton	
-- Contact	
-	
-
----
-
 - Origin 	
 	- Discovery of Coffee
 	- Countries that produce coffee beans
@@ -21,7 +13,7 @@
 		- Effect on Emotional Intelligence
 		- Psycologial Effects
 		- Addiction
-- Other
+- Fun Things
 	- Your brain Beer vs. Coffee
 	- What your coffee preference says about you
 	- Strange Facts about Coffee
